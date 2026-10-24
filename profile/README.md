@@ -37,4 +37,4 @@ Cashu Card is maintained jointly by the Flash and Foxy teams. A change to the pr
 
 For a vulnerability report, open the affected repository's **Security** tab and choose **Report a vulnerability**.
 
-Commits and release tags are signed with GPG key `3139 A2E7 74DA F732 8533 D0EC 0A89 7098 CF0A 7E5B`, and releases carry GitHub build attestations. Each repository's `PROVENANCE.md` explains how to check them.
+The project signing key is `3139 A2E7 74DA F732 8533 D0EC 0A89 7098 CF0A 7E5B`. Each repository's `PROVENANCE.md` explains how to verify signatures and any build attestations supplied with its releases.
