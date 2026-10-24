@@ -16,4 +16,4 @@ Include as much of this as you can:
 
 Every report is read, and we keep you informed while we investigate and fix it. Please allow a reasonable window for a fix before disclosing it publicly.
 
-A repository with its own `SECURITY.md` follows that file instead of this one.
+For a repository with its own `SECURITY.md`, follow that repository's policy.

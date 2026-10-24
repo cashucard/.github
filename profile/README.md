@@ -8,7 +8,7 @@
   <a href="https://cashucard.org/guide.html"><b>Install the applet</b></a>
 </p>
 
-Cashu Card is an open protocol that puts [Cashu](https://cashu.space) ecash on an NFC smart card. The card keeps its proofs and its private key on its own chip and pays with a tap. The person paying needs no phone at the till, and the till can take the payment offline and settle it with the mint when it reconnects. A mint needs no changes: a card payment is an ordinary Cashu swap.
+Cashu Card is an open protocol that puts [Cashu](https://cashu.space) ecash on an NFC smart card. The card keeps its proofs and its private key on its own chip and pays with a tap. The customer pays by tapping the card at the till. The till can accept payment offline and settle with the mint when it reconnects. The mint processes card payments as ordinary Cashu swaps.
 
 ## How a payment works
 
@@ -27,7 +27,7 @@ Cashu Card is an open protocol that puts [Cashu](https://cashu.space) ecash on a
 
 ## Status
 
-The protocol is a draft. Version 2.1 has run end to end on an NXP J3R180 card with real phones: install, setup, funding, online and offline payments, change and settlement at a mint ([test report](https://github.com/cashucard/cashucard/blob/main/docs/HARDWARE_TEST_REPORT_2026-10-23.j3r180-full-e2e.md)). Those tests cover the named card and phones. Read the [security model](https://github.com/cashucard/cashucard/blob/main/docs/SECURITY-MODEL.md) before putting real value on a card.
+The protocol is a draft. Version 2.1 has run end to end on an NXP J3R180 card with real phones: install, setup, funding, online and offline payments, change and settlement at a mint ([test report](https://github.com/cashucard/cashucard/blob/main/docs/HARDWARE_TEST_REPORT_2026-10-23.j3r180-full-e2e.md)). Those tests cover the named card and phones. Review the [security model](https://github.com/cashucard/cashucard/blob/main/docs/SECURITY-MODEL.md) before loading a card with value.
 
 ## Working together
 
@@ -35,6 +35,6 @@ Cashu Card is maintained jointly by the Flash and Foxy teams. A change to the pr
 
 ## Security and provenance
 
-Report a vulnerability privately: open the affected repository's **Security** tab and choose **Report a vulnerability**. Please keep it out of public issues.
+For a vulnerability report, open the affected repository's **Security** tab and choose **Report a vulnerability**.
 
 Commits and release tags are signed with GPG key `3139 A2E7 74DA F732 8533 D0EC 0A89 7098 CF0A 7E5B`, and releases carry GitHub build attestations. Each repository's `PROVENANCE.md` explains how to check them.
