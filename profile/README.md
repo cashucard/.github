@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cashucard.org"><img src="banner.jpg" alt="A Cashu card under the words: Cashu, now on a card." width="720"></a>
+  <a href="https://cashucard.org"><img src="banner.jpg" alt="A Cashu Card, with the Cashu Card mark, under the words: Cashu, now on a card." width="720"></a>
 </p>
 
 <p align="center">
