@@ -27,7 +27,9 @@ Cashu Card is an open protocol that puts [Cashu](https://cashu.space) ecash on a
 
 ## Status
 
-The protocol is a draft. Version 2.1 has run end to end on an NXP J3R180 card with real phones: install, setup, funding, online and offline payments, change and settlement at a mint ([test report](https://github.com/cashucard/cashucard/blob/main/docs/HARDWARE_TEST_REPORT_2026-10-23.j3r180-full-e2e.md)). Those tests cover the named card and phones. Review the [security model](https://github.com/cashucard/cashucard/blob/main/docs/SECURITY-MODEL.md) before loading a card with value.
+Cashu Card is experimental. The protocol is a draft NUT proposal with little outside review. Version 2.1 has run end to end on an NXP J3R180 card with real phones: install, setup, funding, online and offline payments, change and settlement at a mint ([test report](https://github.com/cashucard/cashucard/blob/main/docs/HARDWARE_TEST_REPORT_2026-10-23.j3r180-full-e2e.md)). Those tests cover the named card and phones. Review the [security model](https://github.com/cashucard/cashucard/blob/main/docs/SECURITY-MODEL.md) and keep only small amounts on a card.
+
+Questions about any of the repositories go to [Discussions](https://github.com/cashucard/cashucard/discussions) in cashucard/cashucard.
 
 ## Working together
 
