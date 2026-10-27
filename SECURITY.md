@@ -4,7 +4,7 @@ A bug in a Cashu Card repository can lose the money on a card, so reports are we
 
 ## Reporting a vulnerability
 
-Report it privately through the affected repository's security advisories: open its **Security** tab and choose **Report a vulnerability**. That creates a private advisory that only the maintainers can see. Please keep vulnerabilities out of public issues, pull requests and discussions.
+Report it privately through the affected repository's security advisories: open its **Security** tab and choose **Report a vulnerability**. That creates a private advisory that only the maintainers can see. You can also email [security@cashucard.org](mailto:security@cashucard.org). Please keep vulnerabilities out of public issues, pull requests and discussions.
 
 Include as much of this as you can:
 
